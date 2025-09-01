@@ -4,5 +4,8 @@
 #catalouge
 #cart
 #user
+#mongodb
+#rabbitmq
 #payment
 #mysql
+
