@@ -1,0 +1,12 @@
+Hi This is file2 in git directory
+i am making another change for checking
+This is also one more change in this file to check
+i am making changes to check git add -p command
+This is 5th line
+this is 6th line
+this is also one more change
+This is second line
+
+This is 3rd line
+this is 4th line
+
