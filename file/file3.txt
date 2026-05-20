@@ -1,0 +1,6 @@
+Hi This is file3 in git directory
+I am adding some info for making the changes in this file
+this is 3rd line
+this is 4th line
+this is 5 th line
+
